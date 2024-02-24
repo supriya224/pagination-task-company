@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/pagination-task-company/static/css/main.3664dee8.css",
+    "main.js": "/pagination-task-company/static/js/main.09216394.js",
+    "static/js/787.a5a00b74.chunk.js": "/pagination-task-company/static/js/787.a5a00b74.chunk.js",
+    "index.html": "/pagination-task-company/index.html",
+    "main.3664dee8.css.map": "/pagination-task-company/static/css/main.3664dee8.css.map",
+    "main.09216394.js.map": "/pagination-task-company/static/js/main.09216394.js.map",
+    "787.a5a00b74.chunk.js.map": "/pagination-task-company/static/js/787.a5a00b74.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3664dee8.css",
+    "static/js/main.09216394.js"
+  ]
+}
