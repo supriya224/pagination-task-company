@@ -48,7 +48,7 @@ function AboutPage() {
             <span className={classNames(styles.abouts_links, "flex", "center")}>
               GitHub:
               <Link
-                to="https://github.com/supriya224/pagination-task"
+                to="https://github.com/supriya224/pagination-task-company"
                 className={classNames(styles.github)}
                 aria-current="page">
                 <Lottie
