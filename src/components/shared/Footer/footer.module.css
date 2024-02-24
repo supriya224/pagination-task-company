@@ -1,0 +1,11 @@
+.footer_section {
+  background-color: gray;
+
+  /* height: 30%; */
+}
+.content_section {
+  display: flex;
+  justify-content: center;
+  padding: 2rem;
+  z-index: -10;
+}
