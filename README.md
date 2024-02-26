@@ -26,6 +26,6 @@ Crafting the Star Wars Planets Directory has been an exhilarating journey, where
 - Typescript
 - Lottie
 - ...
-
-
+#screenshot
+<img width="1440" alt="Screenshot 2024-02-26 at 8 20 33 AM" src="https://github.com/supriya224/pagination-task-company/assets/52038704/a523b1b4-b258-46c6-8dba-999cfb8c5500">
 
